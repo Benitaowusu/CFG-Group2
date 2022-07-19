@@ -33,3 +33,42 @@ a {
   .Link:hover::after {
         height: 100%;
       }
+
+
+
+form{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+
+footer{
+  margin-bottom: 0px;
+}
+
+
+.contactUsTitle{
+
+  text-align: center;
+}
+
+
+
+body {
+  margin: 0px;
+  font-family: Arial;
+  line-height: 20px;
+}
+#header {
+  height: 20px;
+  background: #222;
+  color: white;
+}
+#content {
+  min-height: calc(100vh - 40px);
+}
+#footer {
+  height: 20px;
+  background: #222;
+  color: white;
+}
